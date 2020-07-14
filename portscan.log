@@ -1,0 +1,140 @@
+Time: 07/14-00:23:44.797295 
+event_id: 455
+192.168.1.18 -> 192.168.1.21 (portscan) TCP Portscan
+Priority Count: 5
+Connection Count: 6
+IP Count: 1
+Scanner IP Range: 192.168.1.18:192.168.1.18
+Port/Proto Count: 6
+Port/Proto Range: 80:995
+
+Time: 07/14-00:23:44.799079 
+event_ref: 455
+192.168.1.18 -> 192.168.1.21 (portscan) Open Port
+Open Port: 445
+
+Time: 07/14-00:23:44.804018 
+event_ref: 455
+192.168.1.18 -> 192.168.1.21 (portscan) Open Port
+Open Port: 139
+
+Time: 07/14-00:23:44.804622 
+event_ref: 455
+192.168.1.18 -> 192.168.1.21 (portscan) Open Port
+Open Port: 3389
+
+Time: 07/14-00:23:44.805139 
+event_ref: 455
+192.168.1.18 -> 192.168.1.21 (portscan) Open Port
+Open Port: 135
+
+Time: 07/14-00:23:45.956488 
+event_ref: 455
+192.168.1.18 -> 192.168.1.21 (portscan) Open Port
+Open Port: 5357
+
+Time: 07/14-00:35:57.289509 
+event_id: 1
+192.168.1.18 -> 192.168.1.21 (portscan) TCP Portscan
+Priority Count: 5
+Connection Count: 12
+IP Count: 1
+Scanner IP Range: 192.168.1.18:192.168.1.18
+Port/Proto Count: 12
+Port/Proto Range: 21:1723
+
+Time: 07/14-00:35:57.289510 
+event_ref: 1
+192.168.1.18 -> 192.168.1.21 (portscan) Open Port
+Open Port: 135
+
+Time: 07/14-00:35:57.289872 
+event_ref: 1
+192.168.1.18 -> 192.168.1.21 (portscan) Open Port
+Open Port: 445
+
+Time: 07/14-00:35:57.295312 
+event_ref: 1
+192.168.1.18 -> 192.168.1.21 (portscan) Open Port
+Open Port: 3389
+
+Time: 07/14-00:35:57.296610 
+event_ref: 1
+192.168.1.18 -> 192.168.1.21 (portscan) Open Port
+Open Port: 139
+
+Time: 07/14-00:35:58.507803 
+event_ref: 1
+192.168.1.18 -> 192.168.1.21 (portscan) Open Port
+Open Port: 5357
+
+Time: 07/14-00:38:04.269153 
+event_id: 7
+192.168.1.18 -> 192.168.1.21 (portscan) TCP Portscan
+Priority Count: 5
+Connection Count: 5
+IP Count: 1
+Scanner IP Range: 192.168.1.18:192.168.1.18
+Port/Proto Count: 5
+Port/Proto Range: 22:995
+
+Time: 07/14-00:38:04.271035 
+event_ref: 7
+192.168.1.18 -> 192.168.1.21 (portscan) Open Port
+Open Port: 445
+
+Time: 07/14-00:38:04.273888 
+event_ref: 7
+192.168.1.18 -> 192.168.1.21 (portscan) Open Port
+Open Port: 3389
+
+Time: 07/14-00:38:04.277718 
+event_ref: 7
+192.168.1.18 -> 192.168.1.21 (portscan) Open Port
+Open Port: 135
+
+Time: 07/14-00:38:04.279772 
+event_ref: 7
+192.168.1.18 -> 192.168.1.21 (portscan) Open Port
+Open Port: 139
+
+Time: 07/14-00:38:05.432305 
+event_ref: 7
+192.168.1.18 -> 192.168.1.21 (portscan) Open Port
+Open Port: 5357
+
+Time: 07/14-00:39:07.665696 
+event_id: 13
+192.168.1.18 -> 192.168.1.21 (portscan) TCP Portscan
+Priority Count: 5
+Connection Count: 11
+IP Count: 1
+Scanner IP Range: 192.168.1.18:192.168.1.18
+Port/Proto Count: 11
+Port/Proto Range: 21:8888
+
+Time: 07/14-00:39:07.668884 
+event_ref: 13
+192.168.1.18 -> 192.168.1.21 (portscan) Open Port
+Open Port: 3389
+
+Time: 07/14-00:39:07.672477 
+event_ref: 13
+192.168.1.18 -> 192.168.1.21 (portscan) Open Port
+Open Port: 139
+
+Time: 07/14-00:39:07.674364 
+event_ref: 13
+192.168.1.18 -> 192.168.1.21 (portscan) Open Port
+Open Port: 135
+
+Time: 07/14-00:39:07.674824 
+event_ref: 13
+192.168.1.18 -> 192.168.1.21 (portscan) Open Port
+Open Port: 445
+
+Time: 07/14-00:39:07.713417 
+event_ref: 13
+192.168.1.18 -> 192.168.1.21 (portscan) Open Port
+Open Port: 5357
+
